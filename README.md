@@ -2,8 +2,6 @@
 
 #### Digital Clock Live Based on your local machine
 
-#### By **Aaron Ekal, 7th Dec 2022**
-
 ## Description
 
 A simple Python clock 
