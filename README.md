@@ -1,6 +1,7 @@
 # Live Clock
 
 #### Digital Clock Live Based on your local machine
+![Landing page screenshot](static/img/live%20Clock.png "Live Clock")
 
 ## Description
 
